@@ -1,0 +1,33 @@
+ul{
+background-image: url(peopleintexas.jpg) ;
+list-style-type:  none;
+margin: 0;
+padding: 0;
+overflow:hidden ;
+background-color: #333;
+}
+
+
+li{
+   float: left;   
+   background-color: crimson;
+   font-size: 90px;
+}
+
+li a {
+display: block;
+color: royalblue;
+text-align: center;
+padding: 14px 16px;                                                                                                                                                                                                                                                                         
+text-decoration: none;
+}
+
+ /* change the link color #111 (black) on hover */
+ li a:hover  {
+background-color: #111 ;
+ }
+ body{
+   background-color: royalblue;
+   
+   
+   }
